@@ -32,3 +32,8 @@ img.center {
    margin-left: auto;
    margin-right: auto;
 }
+.footer{
+  color: gray;
+  font-family: verdana;
+  text-align: right;
+}
